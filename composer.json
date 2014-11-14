@@ -1,0 +1,12 @@
+{
+	"name" : "blueblazeassociates/ant-contrib",
+	"description" : "A home for additional useful tasks and types for Ant.",
+    "homepage" : "http://ant-contrib.sourceforge.net/",
+    "license" : "Apache-2.0",
+	"keywords" : [
+		"apache ant",
+		"ant",
+		"build tools",
+		"ant-contrib"
+	]
+}
